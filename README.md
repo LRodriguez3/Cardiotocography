@@ -1,4 +1,4 @@
-e# Cardiotocography
+# Cardiotocography
 
 School project on the prediction of fetal problem with cardiotocographe data. 
 It's a **classification problem** of three class where we try to predict whether or not the **fetus** has a problem based of :
