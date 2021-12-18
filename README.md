@@ -6,10 +6,14 @@ It's a **classification problem** of three class where we try to predict whether
 + uterin contraction of the mother 
 + the hertbeat of the fetus
 
-The notebook shows the resolution of the problem with a **AutoML** tool named H2O step by step
+The notebook shows the resolution of the problem with a *AutoML* tool named **TPOT**. Then we try to have a better result of the TPOT model by working on the data and by searching for the best model manually.
+
+The goal is to see the added value of the expertise of a data scientist here.
+
+Later on, a coupling-based method is tested by coupling the result of the prediction of each of the target.
 
 <br>
 <div style="backround-color:#FBFBEF;border:lpx solid black;padding:10px;">
-$p_h^K = \frac{1}$
+test
 </div>
 
