@@ -1,4 +1,4 @@
-# Cardiotocography
+e# Cardiotocography
 
 School project on the prediction of fetal problem with cardiotocographe data. 
 It's a **classification problem** of three class where we try to predict whether or not the **fetus** has a problem based of :
@@ -11,9 +11,3 @@ The notebook shows the resolution of the problem with a *AutoML* tool named **TP
 The goal is to see the added value of the expertise of a data scientist here.
 
 Later on, a coupling-based method is tested by coupling the result of the prediction of each of the target.
-
-<br>
-<div style="backround-color:#FBFBEF;border:lpx solid black;padding:10px;">
-test
-</div>
-
